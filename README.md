@@ -1,2 +1,2 @@
-# EngResume
-My resume that shows my engineering accomplishments
+
+Resume showing my engineering accomplishments
